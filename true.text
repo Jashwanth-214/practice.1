@@ -42,6 +42,6 @@ int main() {
     }
 
     return 0;
-}
+}   //it is checked the code is correct and ready to execute ---checked by vignesh.s
 
 
